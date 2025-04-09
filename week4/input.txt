@@ -1,0 +1,5 @@
+Hello, this is the first line.
+Here is another line of text.
+Python makes file handling easy.
+This is the fourth line.
+And here comes the final line.
